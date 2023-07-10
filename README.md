@@ -42,3 +42,4 @@ p2 = 0.004137
 
 ## **한계점**
 * DJI사에서 제공하는 Onboard-SDK를 이용하여 기체를 실시간으로 조작하는것을 시도하였지만, 기체에 연결하는 과정에서 생긴 문제를 해결하지 못함
+* Onboard-sdk link : https://github.com/dji-sdk/Onboard-SDK
