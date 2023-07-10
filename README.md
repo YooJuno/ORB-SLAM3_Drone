@@ -6,7 +6,9 @@
 
 ![1688618919073](image/README/1688618919073.png)
 
+**[Referrence link]**
 
+### [YouTube LINK](https://youtu.be/XvKIvkEmncU)
 
 **[Model]**
 
@@ -29,9 +31,6 @@ k2 = -0.295672
 p1 = 0.001470
 p2 = 0.004137
 
-**[Referrence link]**
-
-### [YouTube LINK](https://youtu.be/XvKIvkEmncU)
 
 ## **구현 환경**
 
